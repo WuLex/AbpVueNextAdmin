@@ -2,7 +2,9 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-
+*.js linguist-language=vue
+*.css linguist-language=vue
+*.html linguist-language=vue
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
